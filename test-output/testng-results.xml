@@ -1,0 +1,3367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="26" passed="26">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="517920" started-at="2018-02-25T23:01:27Z" finished-at="2018-02-25T23:10:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="517920" started-at="2018-02-25T23:01:27Z" finished-at="2018-02-25T23:10:05Z">
+      <class name="sanityTests.SignUp">
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="14763" started-at="2018-02-25T23:01:27Z" finished-at="2018-02-25T23:01:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="5637" started-at="2018-02-25T23:01:42Z" data-provider="testdata" finished-at="2018-02-25T23:01:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[positive]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Gold]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deep]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="70" started-at="2018-02-25T23:01:47Z" finished-at="2018-02-25T23:01:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="13400" started-at="2018-02-25T23:01:47Z" finished-at="2018-02-25T23:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="5567" started-at="2018-02-25T23:02:01Z" data-provider="testdata" finished-at="2018-02-25T23:02:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AT]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Silver]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[This field is required]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="296" started-at="2018-02-25T23:02:06Z" finished-at="2018-02-25T23:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="15173" started-at="2018-02-25T23:02:07Z" finished-at="2018-02-25T23:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="4210" started-at="2018-02-25T23:02:22Z" data-provider="testdata" finished-at="2018-02-25T23:02:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_03]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AT]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Silver]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deepanshu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[This field is required]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="77" started-at="2018-02-25T23:02:26Z" finished-at="2018-02-25T23:02:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="14053" started-at="2018-02-25T23:02:26Z" finished-at="2018-02-25T23:02:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="6257" started-at="2018-02-25T23:02:40Z" data-provider="testdata" finished-at="2018-02-25T23:02:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Silver]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[XYZ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deepanshu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Bosman]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[64646]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[Input has invalid length]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="2347" started-at="2018-02-25T23:02:47Z" finished-at="2018-02-25T23:02:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="15832" started-at="2018-02-25T23:02:49Z" finished-at="2018-02-25T23:03:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="4172" started-at="2018-02-25T23:03:05Z" data-provider="testdata" finished-at="2018-02-25T23:03:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_05]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[positive]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Silver]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deep]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="2326" started-at="2018-02-25T23:03:09Z" finished-at="2018-02-25T23:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="16144" started-at="2018-02-25T23:03:11Z" finished-at="2018-02-25T23:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="3831" started-at="2018-02-25T23:03:27Z" data-provider="testdata" finished-at="2018-02-25T23:03:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_06]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AT]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Silver]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deep]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[This field is required]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="118" started-at="2018-02-25T23:03:31Z" finished-at="2018-02-25T23:03:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="17253" started-at="2018-02-25T23:03:31Z" finished-at="2018-02-25T23:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="3882" started-at="2018-02-25T23:03:49Z" data-provider="testdata" finished-at="2018-02-25T23:03:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_07]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AT]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Silver]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deepanshu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Pothal]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[The password should contain six characters or more]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Passwords do not match]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="69" started-at="2018-02-25T23:03:52Z" finished-at="2018-02-25T23:03:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="13888" started-at="2018-02-25T23:03:53Z" finished-at="2018-02-25T23:04:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="6069" started-at="2018-02-25T23:04:06Z" data-provider="testdata" finished-at="2018-02-25T23:04:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_08]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Gold]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[XYZ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deepanshu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Bosman]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Passwords do not match]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="38" started-at="2018-02-25T23:04:12Z" finished-at="2018-02-25T23:04:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="12419" started-at="2018-02-25T23:04:13Z" finished-at="2018-02-25T23:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="6183" started-at="2018-02-25T23:04:25Z" data-provider="testdata" finished-at="2018-02-25T23:04:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_09]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[positive]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Silver]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[MNC]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deep]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="2408" started-at="2018-02-25T23:04:31Z" finished-at="2018-02-25T23:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="16551" started-at="2018-02-25T23:04:34Z" finished-at="2018-02-25T23:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="4225" started-at="2018-02-25T23:04:50Z" data-provider="testdata" finished-at="2018-02-25T23:04:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Silver]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[MNC]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deep]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[This field is required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="162" started-at="2018-02-25T23:04:54Z" finished-at="2018-02-25T23:04:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="13966" started-at="2018-02-25T23:04:54Z" finished-at="2018-02-25T23:05:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="6063" started-at="2018-02-25T23:05:08Z" data-provider="testdata" finished-at="2018-02-25T23:05:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AT]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Gold]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deepanshu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Pothal]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[XXXX@XX123]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[XXXX@XX123]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[This field is required]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[Input has invalid length]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="55" started-at="2018-02-25T23:05:14Z" finished-at="2018-02-25T23:05:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="16585" started-at="2018-02-25T23:05:15Z" finished-at="2018-02-25T23:05:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="4510" started-at="2018-02-25T23:05:31Z" data-provider="testdata" finished-at="2018-02-25T23:05:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[DE]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Silver]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[XYZ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deepanshu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Bosman]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Passwords do not match]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[This field is required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="76" started-at="2018-02-25T23:05:36Z" finished-at="2018-02-25T23:05:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="16088" started-at="2018-02-25T23:05:36Z" finished-at="2018-02-25T23:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="3119" started-at="2018-02-25T23:05:52Z" data-provider="testdata" finished-at="2018-02-25T23:05:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[positive]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FR]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Discovery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deep]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="105" started-at="2018-02-25T23:05:55Z" finished-at="2018-02-25T23:05:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="13648" started-at="2018-02-25T23:05:55Z" finished-at="2018-02-25T23:06:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="5535" started-at="2018-02-25T23:06:09Z" data-provider="testdata" finished-at="2018-02-25T23:06:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Discovery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deepanshu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[This field is required]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="2317" started-at="2018-02-25T23:06:14Z" finished-at="2018-02-25T23:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="10630" started-at="2018-02-25T23:06:17Z" finished-at="2018-02-25T23:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="5573" started-at="2018-02-25T23:06:27Z" data-provider="testdata" finished-at="2018-02-25T23:06:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FR]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Discovery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[XYZ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deepanshu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Bosman]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[64646]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[Input has invalid length]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="2093" started-at="2018-02-25T23:06:33Z" finished-at="2018-02-25T23:06:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="15078" started-at="2018-02-25T23:06:35Z" finished-at="2018-02-25T23:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="3346" started-at="2018-02-25T23:06:50Z" data-provider="testdata" finished-at="2018-02-25T23:06:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[positive]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FR]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Discovery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deep]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="66" started-at="2018-02-25T23:06:53Z" finished-at="2018-02-25T23:06:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="13187" started-at="2018-02-25T23:06:53Z" finished-at="2018-02-25T23:07:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="3234" started-at="2018-02-25T23:07:07Z" data-provider="testdata" finished-at="2018-02-25T23:07:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Discovery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deep]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[This field is required]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="2318" started-at="2018-02-25T23:07:10Z" finished-at="2018-02-25T23:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="10702" started-at="2018-02-25T23:07:12Z" finished-at="2018-02-25T23:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="5271" started-at="2018-02-25T23:07:23Z" data-provider="testdata" finished-at="2018-02-25T23:07:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Discovery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deepanshu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Pothal]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[The password should contain six characters or more]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Passwords do not match]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="2317" started-at="2018-02-25T23:07:28Z" finished-at="2018-02-25T23:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="14051" started-at="2018-02-25T23:07:30Z" finished-at="2018-02-25T23:07:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="5819" started-at="2018-02-25T23:07:44Z" data-provider="testdata" finished-at="2018-02-25T23:07:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_19]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FR]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Discovery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[XYZ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deepanshu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Bosman]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Passwords do not match]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="63" started-at="2018-02-25T23:07:50Z" finished-at="2018-02-25T23:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="12348" started-at="2018-02-25T23:07:50Z" finished-at="2018-02-25T23:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="5494" started-at="2018-02-25T23:08:03Z" data-provider="testdata" finished-at="2018-02-25T23:08:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[positive]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FR]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Discovery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[MNC]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deep]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="2323" started-at="2018-02-25T23:08:08Z" finished-at="2018-02-25T23:08:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="12608" started-at="2018-02-25T23:08:10Z" finished-at="2018-02-25T23:08:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="5079" started-at="2018-02-25T23:08:23Z" data-provider="testdata" finished-at="2018-02-25T23:08:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_21]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FR]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Discovery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[MNC]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deep]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[This field is required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="2504" started-at="2018-02-25T23:08:28Z" finished-at="2018-02-25T23:08:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="13024" started-at="2018-02-25T23:08:31Z" finished-at="2018-02-25T23:08:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="5374" started-at="2018-02-25T23:08:44Z" data-provider="testdata" finished-at="2018-02-25T23:08:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_22]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Discovery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deepanshu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Pothal]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[XXXX@XX123]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[XXXX@XX123]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[This field is required]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[Input has invalid length]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="2308" started-at="2018-02-25T23:08:49Z" finished-at="2018-02-25T23:08:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="12491" started-at="2018-02-25T23:08:51Z" finished-at="2018-02-25T23:09:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="5575" started-at="2018-02-25T23:09:04Z" data-provider="testdata" finished-at="2018-02-25T23:09:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_23]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FR]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Discovery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[XYZ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deepanshu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Bosman]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Passwords do not match]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[This field is required]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="68" started-at="2018-02-25T23:09:09Z" finished-at="2018-02-25T23:09:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="12353" started-at="2018-02-25T23:09:09Z" finished-at="2018-02-25T23:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="5394" started-at="2018-02-25T23:09:22Z" data-provider="testdata" finished-at="2018-02-25T23:09:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_24]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AT]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Silver]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[D@]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[Input must be alphanumeric]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="62" started-at="2018-02-25T23:09:27Z" finished-at="2018-02-25T23:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="13516" started-at="2018-02-25T23:09:27Z" finished-at="2018-02-25T23:09:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="5917" started-at="2018-02-25T23:09:41Z" data-provider="testdata" finished-at="2018-02-25T23:09:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_25]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AT]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Silver]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ABC]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Deepanshu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Ki*-]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[Input must be alphanumeric]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="106" started-at="2018-02-25T23:09:47Z" finished-at="2018-02-25T23:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="NavigateToApplication()[pri:0, instance:sanityTests.SignUp@70fda8]" name="NavigateToApplication" is-config="true" duration-ms="12723" started-at="2018-02-25T23:09:47Z" finished-at="2018-02-25T23:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToApplication -->
+        <test-method status="PASS" signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:sanityTests.SignUp@70fda8]" name="register" duration-ms="5152" started-at="2018-02-25T23:10:00Z" data-provider="testdata" finished-at="2018-02-25T23:10:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_26]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[negative]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CH]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Discovery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[<Unavailable>]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ddd@dd.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dddddd]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6464646041]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[ADAB12]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[This field is required]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[<Blank>]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:sanityTests.SignUp@70fda8]" name="closeBrowser" is-config="true" duration-ms="71" started-at="2018-02-25T23:10:05Z" finished-at="2018-02-25T23:10:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- sanityTests.SignUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
